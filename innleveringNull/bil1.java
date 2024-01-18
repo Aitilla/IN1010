@@ -2,7 +2,7 @@ package innleveringNull;
 
 public class bil1{
 
-    public void called(){
+    public void call(){
         System.out.println("I am a car");
     }
 
